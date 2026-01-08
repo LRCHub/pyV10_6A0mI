@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "6年生を送る会",
+  "base_artist": "色々な十字架",
+  "createdAt": "2026-01-08T12:54:20.708464Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "6年生を送る会",
+      "artist": "色々な十字架",
+      "has_synced": false,
+      "path": "select/pl_01_6年生を送る会_色々な十字架.txt"
+    }
+  ]
+}
